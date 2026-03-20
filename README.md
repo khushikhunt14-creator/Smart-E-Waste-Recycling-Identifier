@@ -3,7 +3,7 @@ The system uses Computer Vision (AI) to act as an "intelligent eye" for waste ma
 
 ## 💡 Proposed Solution
 This project implements a **Computer Vision-based Smart Sorter**. Using deep learning and image recognition, the system automatically analyzes a waste item in real-time and classifies it into distinct categories:
-* **Recyclables:** Plastic, Paper, Metal, Glass
+* **Recyclables:** Plastic, Paper, Metal, Glass,Organic
 * **Organic:** Bio-waste
 * **Hazardous:** E-Waste
 
